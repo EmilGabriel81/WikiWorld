@@ -1,0 +1,31 @@
+1)Read the countries from file countries2.txt
+
+It has format
+
+name|capital|population|area|continent|neighbour1~neighbour2
+
+2) build CountryService offering the following behavior
+
+- list all country names
+
+- get capital of a country
+
+- get population of a country
+
+- get countries in continent
+
+- get country neighbours
+
+- get countries in <continent> with population larger than <population>
+
+- get countries that neighbor X but not neighbor Y
+
+- get countries in <continent> sorted by population
+
+- get countries in <continent> sorted by area
+
+- get map from country to population
+
+- get map from continent to list of countries
+
+- get map from continent to list of countries sorted by population
