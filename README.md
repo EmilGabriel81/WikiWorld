@@ -19,3 +19,5 @@
 
 ![ScreenshotWik03](https://user-images.githubusercontent.com/72876989/118658592-35a7ec00-b7f5-11eb-8f95-5c523121d521.jpg)
 
+## Have some questions or want to give a feedback? You can send me an email at emilgabriel@gmail.com
+
